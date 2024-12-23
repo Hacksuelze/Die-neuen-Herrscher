@@ -12,4 +12,4 @@ Seitdem reihten sich viele weitere KIs ein und das Modpack erlangte durch die Ha
 Seit dem Release der zwölften KI 2022 wurde die Arbeit an weiteren Charakteren eingestellt, jedoch wird das Modpaket weiterhin gewartet.
 
 Alle enthaltenen KIs wurden von mir erstellt, mit Unterstützung durch Monsterfish, Nevikov und einigen weiteren.
-Für weitere Informationen zu den einzelnen Charakteren werft gerne einen Blick auf meine YouTube-Playlist! YouTube Playlist
+Für weitere Informationen zu den einzelnen Charakteren werft gerne einen Blick auf meine YouTube-Playlist! [YouTube Playlist](https://www.youtube.com/watch?v=05mSEZwmgZo&list=PLINOZtqxvjR7L55ukIJJDEMmq5qyhVCxL)
