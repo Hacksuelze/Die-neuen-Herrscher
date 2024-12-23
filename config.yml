@@ -1,0 +1,754 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value:
+              rat:
+                - name: Perallion
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Perallion/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              pig:
+                - name: Vardenow
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vardenow/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              caliph:
+                - name: Mahdi
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Mahdi/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              sultan:
+                - name: Robin Hood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Robin Hood/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              frederick:
+                - name: HandOfBlood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/HandOfBlood/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              phillip:
+                - name: Udwin
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Udwin/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              wazir:
+                - name: Khan
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Khan/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              emir:
+                - name: Doge
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Doge/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              nizar:
+                - name: Vlad
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vlad/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              sheriff:
+                - name: Klaus Kinski
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kinski/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              marshal:
+                - name: Hackerman
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Hackerman/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              abbot:
+                - name: Kurga
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kurga/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+        defaultLanguage:
+          contents:
+            suggested-value: null
+        ai:
+          rat:
+            binks:
+              contents:
+                suggested-value:
+                  name: Perallion
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Perallion/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Perallion
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Perallion/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Perallion
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Perallion/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Perallion
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Perallion/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Perallion
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Perallion/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Perallion
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Perallion/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Perallion
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Perallion/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Perallion
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Perallion/
+                  active: true
+          pig:
+            binks:
+              contents:
+                suggested-value:
+                  name: Vardenow
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vardenow/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Vardenow
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vardenow/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Vardenow
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vardenow/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Vardenow
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vardenow/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Vardenow
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vardenow/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vardenow
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vardenow/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Vardenow
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vardenow/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Vardenow
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vardenow/
+                  active: true
+          caliph:
+            binks:
+              contents:
+                suggested-value:
+                  name: Mahdi
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Mahdi/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Mahdi
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Mahdi/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Mahdi
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Mahdi/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Mahdi
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Mahdi/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Mahdi
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Mahdi/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Mahdi
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Mahdi/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Mahdi
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Mahdi/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Mahdi
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Mahdi/
+                  active: true
+          sultan:
+            binks:
+              contents:
+                suggested-value:
+                  name: Robin Hood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Robin Hood/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Robin Hood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Robin Hood/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Robin Hood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Robin Hood/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Robin Hood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Robin Hood/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Robin Hood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Robin Hood/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Robin Hood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Robin Hood/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Robin Hood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Robin Hood/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Robin Hood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Robin Hood/
+                  active: true
+          frederick:
+            binks:
+              contents:
+                suggested-value:
+                  name: HandOfBlood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/HandOfBlood/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: HandOfBlood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/HandOfBlood/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: HandOfBlood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/HandOfBlood/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: HandOfBlood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/HandOfBlood/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: HandOfBlood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/HandOfBlood/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: HandOfBlood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/HandOfBlood/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: HandOfBlood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/HandOfBlood/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: HandOfBlood
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/HandOfBlood/
+                  active: true
+          phillip:
+            binks:
+              contents:
+                suggested-value:
+                  name: Udwin
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Udwin/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Udwin
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Udwin/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Udwin
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Udwin/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Udwin
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Udwin/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Udwin
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Udwin/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Udwin
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Udwin/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Udwin
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Udwin/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Udwin
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Udwin/
+                  active: true
+          wazir:
+            binks:
+              contents:
+                suggested-value:
+                  name: Khan
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Khan/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Khan
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Khan/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Khan
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Khan/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Khan
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Khan/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Khan
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Khan/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Khan
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Khan/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Khan
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Khan/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Khan
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Khan/
+                  active: true
+          emir:
+            binks:
+              contents:
+                suggested-value:
+                  name: Doge
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Doge/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Doge
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Doge/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Doge
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Doge/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Doge
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Doge/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Doge
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Doge/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Doge
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Doge/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Doge
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Doge/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Doge
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Doge/
+                  active: true
+          nizar:
+            binks:
+              contents:
+                suggested-value:
+                  name: Vlad
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vlad/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Vlad
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vlad/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Vlad
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vlad/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Vlad
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vlad/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Vlad
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vlad/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Vlad
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vlad/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Vlad
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vlad/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Vlad
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Vlad/
+                  active: true
+          sheriff:
+            binks:
+              contents:
+                suggested-value:
+                  name: Klaus Kinski
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kinski/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Klaus Kinski
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kinski/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Klaus Kinski
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kinski/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Klaus Kinski
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kinski/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Klaus Kinski
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kinski/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Klaus Kinski
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kinski/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Klaus Kinski
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kinski/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Klaus Kinski
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kinski/
+                  active: true
+          abbot:
+            binks:
+              contents:
+                suggested-value:
+                  name: Kurga
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kurga/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Kurga
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kurga/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Kurga
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kurga/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Kurga
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kurga/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Kurga
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kurga/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Kurga
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kurga/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Kurga
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kurga/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Kurga
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Kurga/
+                  active: true
+          marshal:
+            binks:
+              contents:
+                suggested-value:
+                  name: Hackerman
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Hackerman/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Hackerman
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Hackerman/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Hackerman
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Hackerman/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Hackerman
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Hackerman/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Hackerman
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Hackerman/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Hackerman
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Hackerman/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Hackerman
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Hackerman/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Hackerman
+                  root: ucp/plugins/Die-neuen-Herrscher/resources/ai/Hackerman/
+                  active: true
+    files:
+      config: {}
+    aicloader:
+      config: {}
+    graphicsApiReplacer:
+      config: {}
+  plugins:
+    Die-neuen-Herrscher:
+      config: {}
+meta:
+  version: 1.0.0

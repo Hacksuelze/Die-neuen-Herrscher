@@ -1,0 +1,11 @@
+name: Die-neuen-Herrscher-Applied
+author: Hacksuelze
+version: 1.0.0
+dependencies:
+  Die-neuen-Herrscher: ^1.0.0
+  aiSwapper: ^1.1.0
+  files: ^1.1.0
+  aicloader: ^1.1.0
+  graphicsApiReplacer: ^1.2.0
+  framework: ">=3.0.4"
+  frontend: ">=1.0.5"
