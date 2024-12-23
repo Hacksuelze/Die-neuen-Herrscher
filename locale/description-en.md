@@ -13,3 +13,4 @@ Since the release of the twelfth AI in 2022, work on further characters has been
 
 All included AIs were created by me, with support from Monsterfish, Nevikov, Krarilotus and a few others.
 For more information on the individual characters, take a look at my  [YouTube Playlist](https://www.youtube.com/watch?v=05mSEZwmgZo&list=PLINOZtqxvjR7L55ukIJJDEMmq5qyhVCxL) !
+Note: Speechlines and text are only available in german.
