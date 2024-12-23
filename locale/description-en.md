@@ -12,4 +12,4 @@ Since then, many more AIs have joined the ranks and the modpack has become well 
 Since the release of the twelfth AI in 2022, work on further characters has been discontinued, but the modpack is still being maintained.
 
 All included AIs were created by me, with support from Monsterfish, Nevikov, Krarilotus and a few others.
-For more information on the individual characters, take a look at my Youtube playlist! https://www.youtube.com/watch?v=05mSEZwmgZo&li
+For more information on the individual characters, take a look at my  [YouTube Playlist](https://www.youtube.com/watch?v=05mSEZwmgZo&list=PLINOZtqxvjR7L55ukIJJDEMmq5qyhVCxL) !
