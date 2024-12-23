@@ -1,10 +1,15 @@
-Schlossgespenst KIs
-Dieser Mod bietet Zwölf komplett neue KIs, um für Abwechslung im Gefecht zu sorgen, jede von ihnen mit eigenem Charakter und Stil.
+Die neuen Herrscher Modpaket
+Das DNH Modpack von Hacksülze ersetzt 12 der 16 Vanilla KIs und ist für Spieler gemacht, die nach neuen Herausforderungen und ein erfrischendes Spielerlebnis suchen.
+DNH beinhaltet neben vielen dutzenden KI Burgen für alle Charaktere vollständige Videobotschaften und Sprüche.
 
-Neue und altbekannte Charaktere
-Mit dabei sind Interpretationen von Historische Figuren wie Jeanne d'Arc, Guilhabert de Castres oder Kılıç Arslan I., Bekannte Charaktere wie Lord Woolsack oder das Schlossgespenst und Neue Charaktere wie der Bandit oder der Dämon.
+Die 12 Charakter sind ein abwechslungsreicher Mix aus historischen KIs und Comedy KIs, die der Unterhaltung dienen.
+Auch bezüglich des Schwierigkeitgrades ist von sehr einfach bis zur maximalen Herausforderung alles dabei.
+Egal ob du ganz entspannt die Atmosphäre des Spiels mit Herrschern wie den Dogen von Venedig oder Robin Hood erleben möchtest oder deine Fähigkeiten gegen Gegner wie HandOfBlood, Udwin und Hackerman auf die Probe stellen willst, für jede Situation stehen dir entsprechende KIs zur Verfügung.
 
-Alle der bis zu vier neuen Burgen der KIs, sowie deren Strategie und Charakter wurden von mir erdacht und erstellt. Die Portraits, Videos und Stimmen sind zusammengebastelt aus Teilen von anderen Spielen, Bildern und Ähnlichem.
+Historie
+DNH nahm seine Anfänge 2019 mit dem Release der Vlad KI für die UCP Version 2.12, und war somit die erste vollständige Custom KI für Stronghold Crusader.
+Seitdem reihten sich viele weitere KIs ein und das Modpack erlang durch die HandofBlood KI große Bekanntheit.
+Seit dem Release der zwölften KI 2022 wurde die Arbeit an weiteren Charakteren eingestellt, jedoch wird das Modpaket weiterhin gewartet.
 
-Hier in meiner präferierten Konfiguration.
-Erstellt vom Schlossgespenst!
+Alle enthaltenen KIs wurden von mir erstellt, mit Unterstützung durch Monsterfish, Nevikov und einigen weiteren.
+Für weitere Informationen zu den einzelnen Charakteren werft gerne einen Blick auf meine Youtube Playlist! https://www.youtube.com/watch?v=05mSEZwmgZo&list=PLINOZtqxvjR7L55ukIJJDEMmq5qyhVCxL
